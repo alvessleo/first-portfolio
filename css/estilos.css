@@ -1,0 +1,71 @@
+body{
+    background-color: #1d1d1d;
+    
+}
+
+main{
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+}
+
+h5{
+    
+    font-family: "Helvetica Now Display DW",sans-serif;
+    text-transform: uppercase;
+    letter-spacing: .3rem;
+    color: #e8f6fe;
+    font-weight: lighter;
+    font-size: 1.5rem;
+    margin-bottom: 30vh;
+    position: absolute;
+    width: 99%;
+    text-align: center;
+}
+
+h4{
+    font-family: 'Nimbus Sans D OT', sans-serif;
+    color: #b1b1b1;
+    font-size: 2.1rem;
+    font-weight: 300;
+}
+
+h4 a{
+    color: #2180f9;
+}
+
+h3{
+    font-family: "Myriad Pro", Myriad, "Liberation Sans", "Nimbus Sans L", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-transform: uppercase;
+    color: #eee8fe;
+    font-size: 2.4rem;
+    margin: -6vh auto;
+}
+
+.logo-alves{
+    margin: auto;
+    width: 45rem;
+    margin: -6vh auto;
+}
+
+.button-contact{
+    text-align: center;
+    margin: auto;
+    width: 11rem;
+    height: 1.8rem;
+    border-color: #2180f9;
+    border-width: 2.9px;
+    border-style: solid;
+    border-radius: 30px;
+    margin: -3vh auto;
+    
+}
+
+.label-contact{
+    font-family: 'Nimbus Sans D OT', sans-serif;
+    font-size: 1.2rem;
+    color: white;
+    text-transform: uppercase;
+}
